@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 4X1=4 \n 4X2=8 \n 4X3=12 \n 4X4=16 \n 4X5=20 \n 4X6=24 \n 4X7=28 \n 4X8=32 \n 4X9=36 \n 4X10=40 "
+        android:textSize="40sp"
+        android:textColor="#FB0404"        />
+
+</LinearLayout>

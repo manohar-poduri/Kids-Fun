@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 3X1=3 \n 3X2=6 \n 3X3=9 \n 3X4=12 \n 3X5=15 \n 3X6=18 \n 3X7=21 \n 3X8=24 \n 3X9=27 \n 3X10=30 "
+        android:textSize="40sp"
+        android:textColor="#FB0404"        />
+
+</LinearLayout>

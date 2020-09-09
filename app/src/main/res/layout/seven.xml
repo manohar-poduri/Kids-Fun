@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 7X1=7 \n 7X2=14 \n 7X3=21 \n 7X4=28 \n 7X5=35 \n 7X6=42 \n 7X7=49 \n 7X8=56 \n 7X9=63 \n 7X10=70 "
+        android:textSize="40sp"
+        android:textColor="#FB0404"        />
+
+</LinearLayout>

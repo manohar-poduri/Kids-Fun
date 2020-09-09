@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 10X1=10 \n 10X10=20 \n 10X3=30 \n 10X4=40 \n 10X5=50 \n 10X6=60 \n 10X7=70 \n 10X8=80 \n 10X9=90 \n 10X10=100 "
+        android:textSize="40sp"
+        android:textColor="#FB0404"        />
+
+</LinearLayout>

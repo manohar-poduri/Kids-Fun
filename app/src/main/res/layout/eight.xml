@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 8X1=8 \n 8X2=16 \n 8X3=24 \n 8X4=32 \n 8X5=40 \n 8X6=48 \n 8X7=86 \n 8X8=64 \n 8X9=72 \n 8X10=80 "
+        android:textSize="40sp"
+        android:textColor="#FB0404"
+        />
+
+</LinearLayout>
